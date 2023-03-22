@@ -1,4 +1,4 @@
-# JogodaVelha_Assembly
+# JogodaVelha_Assembly #, O, X
 
 Grupo de Discentes: Bianca Netto, Kauane Pires, Ryhan Clayver e Tauani Vitória. 
 
